@@ -22,6 +22,12 @@ Como colocar codigoss, pode-se colocar o nome da linguagem após as crases, como
 ```html
 <h1> Título de nível 1</h1>
 ```
+Lista de tarefas a fazer no repositório:
+
+ - [ ] Melhorar a documntação do repositório
+ - [ ] Ler a documentação do *markdown*
+ - [ ] Ler a documnetação do git/github
+
 ## Referencias
 
 * [Documentção do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
